@@ -2,8 +2,8 @@
 *Explorative Preisanalyse*
 
 In diesem kleinen Projekt habe ich Immobilienanzeigen aus Berlin (April 2023, Quelle: Immowelt.de) analysiert, um zentrale Muster in Preisen, Fläche und anderen Einflussfaktoren zu erkennen.  
-Dies ist mein erstes Python-Projekt im Bereich Data Science und zeigt Datenbereinigung, Visualisierung und einfache Modellierung.
-Dieses Projekt ist eine erste Explorationsanalyse mit Python und diente mir als Training im Umgang mit Datenanalyse-Tools (Pandas, Seaborn, scikit-learn).
+Dieses Projekt zeigt zeigt wie man Datenbereinigung, Visualisierung und einfache Modellierung durchführt.
+
 
 ## Inhalt
 - `RealEstate_Analyse.py` → Hauptskript mit allen Analysen und Visualisierungen  
